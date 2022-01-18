@@ -1,0 +1,69 @@
+nav {
+  background-color: #fff;
+}
+
+.story-photo {
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  border: 2px solid rgb(238, 39, 82);
+}
+
+.card-header {
+  background-color: #fff;
+}
+
+.post-photo {
+  border-radius: 50%;
+  height: 36px;
+  width: 36px;
+}
+
+.post-user-font {
+  font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.post-img {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.li-height li a img {
+  height: 28px;
+}
+
+.like-img {
+  height: 24px;
+  border-radius: 50%;
+}
+
+.like-user-font {
+  font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.card-footer {
+  background-color: #fff;
+}
+
+.comment-input {
+  width: 85%;
+  height: 100%;
+  border: none;
+}
+
+.comment-input:focus {
+  border: none;
+}
+
+.card-footer a {
+  text-decoration: none;
+  color: rgb(108, 108, 235);
+  font-weight: 600;
+  float: right;
+}
